@@ -1,0 +1,124 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+h1 {
+    color: #222;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+section {
+    margin-bottom: 30px;
+    padding: 15px 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 0 7px rgba(0,0,0,0.1);
+}
+
+/* Inputs de cadastro em coluna */
+.inputs-cadastro {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 320px;
+}
+
+input[type="text"],
+input[type="number"],
+input[type="email"] {
+    padding: 8px 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1em;
+}
+
+/* Botões estilos */
+button {
+    cursor: pointer;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 1em;
+    color: white;
+    transition: background-color 0.3s ease;
+    margin-left: 5px;
+}
+
+/* Botões específicos */
+.btn-listar {
+    background-color: #007bff;
+}
+.btn-listar:hover {
+    background-color: #0056b3;
+}
+
+.btn-buscar {
+    background-color: #28a745;
+}
+.btn-buscar:hover {
+    background-color: #1e7e34;
+}
+
+.btn-cadastrar {
+    background-color: #17a2b8;
+    margin-top: 20px;
+}
+.btn-cadastrar:hover {
+    background-color: #117a8b;
+}
+
+.btn-deletar {
+    background-color: #dc3545;
+}
+.btn-deletar:hover {
+    background-color: #a71d2a;
+}
+
+/* Tabelas */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+    font-size: 0.9em;
+}
+
+table, th, td {
+    border: 1px solid #ccc;
+}
+
+th {
+    background-color: #f0f0f0;
+    text-align: left;
+    padding: 8px;
+}
+
+td {
+    padding: 8px;
+}
+
+/* Resultado cadastro tabela */
+#resultadoCadastro {
+    margin-top: 15px;
+}
+
+#resultadoCadastro table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#resultadoCadastro th,
+#resultadoCadastro td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    background: #fafafa;
+}
+
+#resultadoCadastro th {
+    background-color: #e9ecef;
+    font-weight: 600;
+}

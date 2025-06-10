@@ -151,3 +151,7 @@ D:\Semestres Faculdade\3 Semestre\topicos especiais\atividade_avaliativa_2\API\f
 D:\Semestres Faculdade\3 Semestre\topicos especiais\atividade_avaliativa_2\API\funcionario\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 D:\Semestres Faculdade\3 Semestre\topicos especiais\atividade_avaliativa_2\API\funcionario\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 D:\Semestres Faculdade\3 Semestre\topicos especiais\atividade_avaliativa_2\API\funcionario\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Semestres Faculdade\3 Semestre\topicos especiais\atividade_avaliativa_2\API\funcionario\bin\Debug\net9.0\funcionario.staticwebassets.runtime.json
+D:\Semestres Faculdade\3 Semestre\topicos especiais\atividade_avaliativa_2\API\funcionario\obj\Debug\net9.0\compressed\srku4tcksk-6eqqxq4t6c.gz
+D:\Semestres Faculdade\3 Semestre\topicos especiais\atividade_avaliativa_2\API\funcionario\obj\Debug\net9.0\compressed\xcdjxpaxor-v8g59dtkxr.gz
+D:\Semestres Faculdade\3 Semestre\topicos especiais\atividade_avaliativa_2\API\funcionario\obj\Debug\net9.0\compressed\t5rbu0lydo-ryxf80y1th.gz

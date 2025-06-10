@@ -25,6 +25,13 @@ app.MapGetRoutes();
 app.MapPostRoutes();
 app.MapDeleteRoutes();
 
+//-------------------------------------------------------------------
+//FRONT END
+// Serve arquivos estáticos da pasta wwwroot
+app.UseDefaultFiles();  // Procura por index.html automaticamente
+app.UseStaticFiles();   // Permite servir arquivos da pasta wwwroot
+//-------------------------------------------------------------------
+
 // Popular o banco com dados iniciais, se estiver vazio
 PopularBancoDeDados(app);
 
